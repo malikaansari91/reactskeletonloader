@@ -1,0 +1,10 @@
+.dashboard {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.dashboard .dashboard-img {
+  width: 100px;
+  height: 100px;
+}
