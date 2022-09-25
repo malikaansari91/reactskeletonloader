@@ -1,6 +1,4 @@
-import PropTypes from "prop-types";
 import { useEffect, useState } from "react";
-import styled from "styled-components";
 
 import "../../styles/dashboard.css";
 import { DashboardSkeleton } from "../SkeletonLoader";
